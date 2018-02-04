@@ -1,0 +1,3029 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3214770731</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\library.properties</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\glcdfont.c</file>
+      <file>$PROJ_DIR$\Debug\List\starwarslogo.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mbox.o</file>
+      <file>$PROJ_DIR$\Debug\List\Sd2Card.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\List\bspI2c.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SdFile.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\Adafruit_GFX.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\SD.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\Adafruit_FT6206.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalSDAdafruit.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalTouchFT6206.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\os_flag.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\glcdfont.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\SdVolume.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_task.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_q.lst</file>
+      <file>$PROJ_DIR$\Debug\List\stm32f4xx_usart.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\List\printf.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_time.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspMp3.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_ILI9341.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mem.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_FT6206.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_GFX.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Sd2Card.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\glcdfont.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_gpio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_q.o</file>
+      <file>$PROJ_DIR$\Debug\List\stm32f4xx_gpio.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_core.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SdVolume.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mbox.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_i2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\shell.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\File.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalMp3VS1053.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\pjdf.lst</file>
+      <file>$PROJ_DIR$\Debug\Exe\MP3Player.out</file>
+      <file>$PROJ_DIR$\Debug\List\pjdfInternalTouchFT6206.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\List\stm32f4xx_spi.lst</file>
+      <file>$PROJ_DIR$\Debug\List\os_mutex.lst</file>
+      <file>$PROJ_DIR$\Debug\List\hw_init.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\pjdfInternalSPI.lst</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tmr.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalTouchFT6206.o</file>
+      <file>$PROJ_DIR$\Debug\List\system_stm32f2xx.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\MP3Player.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\starwarslogo.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mp3Util.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_i2c.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_mbox.lst</file>
+      <file>$PROJ_DIR$\Debug\List\File.lst</file>
+      <file>$PROJ_DIR$\Debug\List\bspMp3.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_rcc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\ST\stm32f401xE.icf</file>
+      <file>$PROJ_DIR$\Debug\List\bspLcd.lst</file>
+      <file>$PROJ_DIR$\Debug\List\Adafruit_ILI9341.lst</file>
+      <file>$PROJ_DIR$\Debug\List\pjdfInternalLcdILI9341.lst</file>
+      <file>$PROJ_DIR$\Debug\List\SdVolume.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalSPI.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\printf.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspSD.o</file>
+      <file>$PROJ_DIR$\Debug\List\MP3Player.map</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_q.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalSPI.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\printf.o</file>
+      <file>$PROJ_DIR$\Debug\List\stm32f4xx_i2c.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalMp3VS1053.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\misc.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspSpi.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\os_core.lst</file>
+      <file>$PROJ_DIR$\Debug\List\print.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mutex.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_cpu_c.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\app_hooks.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cpu_c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\glcdfont.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\stm32f4xx_rcc.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\SdFile.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspUart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_flag.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_ne.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspI2c.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_ILI9341.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\tasks.lst</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\List\bspSpi.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspSD.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\app_hooks.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_dbg.lst</file>
+      <file>$PROJ_DIR$\Debug\List\pjdfInternalSDAdafruit.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspLcd.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\SD.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\print.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_sem.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_task.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\starwarslogo.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_task.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cpu_a.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mutex.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_flag.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdf.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\print.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_sem.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspI2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\MP3Player.sim</file>
+      <file>$PROJ_DIR$\Debug\List\app_hooks.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_usart.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\mp3Util.lst</file>
+      <file>$PROJ_DIR$\Debug\List\pinkpanther.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rocky.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_rcc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspLcd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_spi.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinkpanther.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinkpanther.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalSDAdafruit.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hw_init.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\main.lst</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\rocky.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cpu_c.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalLcdILI9341.o</file>
+      <file>$PROJ_DIR$\Debug\List\shell.lst</file>
+      <file>$PROJ_DIR$\Debug\List\os_time.lst</file>
+      <file>$PROJ_DIR$\Debug\List\pjdfInternalMp3VS1053.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspSpi.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_mem.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_core.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\rocky.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_usart.o</file>
+      <file>$PROJ_DIR$\Debug\List\bspSD.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_GFX.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\List\bsp.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\mp3Util.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Adafruit_FT6206.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\List\os_tmr.lst</file>
+      <file>$PROJ_DIR$\Debug\List\SdFile.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mem.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\File.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdfInternalLcdILI9341.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tmr.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspUart.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pjdf.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\shell.o</file>
+      <file>$PROJ_DIR$\Debug\List\SD.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Sd2Card.o</file>
+      <file>$PROJ_DIR$\Debug\List\bspUart.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hw_init.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Debug\List\os_sem.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\bspMp3.o</file>
+      <file>$PROJ_DIR$\App\main.c</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.h</file>
+      <file>$PROJ_DIR$\App\mp3Util.c</file>
+      <file>$PROJ_DIR$\BSP\bspLcd.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.cpp</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.cpp</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFatmainpage.h</file>
+      <file>$PROJ_DIR$\App\uCOS\app_cfg.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\README.txt</file>
+      <file>$PROJ_DIR$\App\tasks.c</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\README.txt</file>
+      <file>$PROJ_DIR$\App\uCOS\os_cfg.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFatUtil.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\README.txt</file>
+      <file>$PROJ_DIR$\App\mp3Util.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\FatStructs.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFile.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\license.txt</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdVolume.cpp</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\File.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\library.properties</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\README.txt</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_VS1053\Adafruit_VS1053.cpp</file>
+      <file>$PROJ_DIR$\App\shell.c</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFat.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_VS1053\Adafruit_VS1053.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\library.properties</file>
+      <file>$PROJ_DIR$\App\uCOS\app_hooks.c</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdInfo.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\BSP\bsp.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\SD.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.h</file>
+      <file>$PROJ_DIR$\BSP\bspI2c.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.c</file>
+      <file>$PROJ_DIR$\BSP\bspI2c.h</file>
+      <file>$PROJ_DIR$\BSP\bspLcd.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cm4.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\SD.cpp</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\system_stm32f2xx.c</file>
+      <file>$PROJ_DIR$\BSP\bsp.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_conf.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_dbg.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu.h</file>
+      <file>$PROJ_DIR$\BSP\hw_init.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_dbg_r.c</file>
+      <file>$PROJ_DIR$\BSP\startup.s</file>
+      <file>$PROJ_DIR$\BSP\bspSD.h</file>
+      <file>$PROJ_DIR$\GUI\pinkpanther.c</file>
+      <file>$PROJ_DIR$\BSP\bspMp3.h</file>
+      <file>$PROJ_DIR$\BSP\layout.icf</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_c.c</file>
+      <file>$PROJ_DIR$\BSP\nucleoboard.h</file>
+      <file>$PROJ_DIR$\BSP\bspUart.h</file>
+      <file>$PROJ_DIR$\GUI\rocky.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_core.c</file>
+      <file>$PROJ_DIR$\BSP\bspSpi.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_flag.c</file>
+      <file>$PROJ_DIR$\BSP\bspMp3.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mbox.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mem.c</file>
+      <file>$PROJ_DIR$\BSP\bspSpi.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_a.asm</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_cfg_r.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mutex.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_q.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_sem.c</file>
+      <file>$PROJ_DIR$\BSP\datainit.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_time.o</file>
+      <file>$PROJ_DIR$\BSP\bspUart.c</file>
+      <file>$PROJ_DIR$\BSP\hw_init.c</file>
+      <file>$PROJ_DIR$\Bitmap\star-wars.h</file>
+      <file>$PROJ_DIR$\BSP\bspSD.c</file>
+      <file>$PROJ_DIR$\GUI\starwarslogo.c</file>
+      <file>$PROJ_DIR$\Util\print.c</file>
+      <file>$PROJ_DIR$\Util\print.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalLcdILI9341.c</file>
+      <file>$PROJ_DIR$\Util\printf.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlLcdILI9341.h</file>
+      <file>$PROJ_DIR$\Util\printf.h</file>
+      <file>$PROJ_DIR$\MP3data\train_crossing.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_tmr.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\ucos_ii.h</file>
+      <file>$PROJ_DIR$\MP3data\Starwars.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdf.c</file>
+      <file>$PROJ_DIR$\MP3data\train_crossing.mp3</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\ucos_ii.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlSDAdafruit.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlSpi.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalMp3VS1053.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalTouchFT6206.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_task.c</file>
+      <file>$PROJ_DIR$\MP3data\pinkpanther.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_time.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternal.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalSDAdafruit.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlMp3VS1053.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalSPI.c</file>
+      <file>$PROJ_DIR$\MP3data\GenerateMp3Header.ps1</file>
+      <file>$PROJ_DIR$\PJDF\pjdf.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalTouchFT6206.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 76 47</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13 161</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123 173 119 180 110 94 3 39 120 2 7 166 67 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 119 94 110 7 67 49 166 120 180 39 173 123 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit-GFX\glcdfont.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\MP3Player.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68 165 161 29 107 24 100 111 188 75 155 175 44 19 185 116 95 164 38 121 149 138 124 5 169 87 36 114 21 274 56 141 125 151 81 16 78 57 113 79 135 112 182 93 40 177 139 117 35 62 136 140 159 186 150 147 55 99 103 171</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 281 110 237 235 258 9 224 249 262 120 180 230 179 197 259 192 94 123 201 226 39 162 25 293 173 288 250 232 253 255 305 7 166 67 49 234 240 246 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\mp3Util.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132 164</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 220 201 294 94 253 223 250 305 7 166 49 239 225 173 288 232 255 180 67 110 197 240 246 39 143 179 306 249 258 259 262 192 9 120 123 234 245 229 162 302 216 206 224 235 226 237 238 230 241 25 284 293 205</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 225 216 206 220 205</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120 123 284 197 110 94 223 39 192 249 179 2 259 143 305 180 224 293 258 262 281 9 240 246 239 10 119 173 7 166 67 49 294 302 306 201 288 250 232 253 255 234 245 229 162 209 235 226 237 238 230 241 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209 2 119 94 110 7 67 49 166 120 180 39 173 123 305 224 179 9 249 201 197 288 258 223 237 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6 182</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 255 162 302 288 67 94 110 235 223 305 173 232 180 237 294 306 201 250 253 7 166 49 197 230 206 220 224 284 293 179 258 259 262 192 281 9 120 123 226 39 238 240 241 25 234 246 245 229 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 305 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 220</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15 165</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 258 293 238 162 110 94 281 305 7 166 49 224 249 262 9 197 240 246 67 284 179 259 192 234 241 226 25 232 39 120 294 302 306 173 201 288 250 253 255 180 123 223 235 237 230 190 245 229 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 190 39 94 110 7 67 49 166 120 305 224 179 180 9 173 123 249 201 197 288 258 223 237 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\tasks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102 150</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 230 94 289 67 281 223 225 258 180 235 224 209 260 110 7 166 249 262 9 237 162 293 305 119 2 39 204 190 279 254 120 49 179 197 259 192 123 201 226 238 240 241 25 284 205 173 288 250 232 253 255 234 246 245 229 143 239 294 302 306 216 206 220</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 204 225 216 206 220 205 2 119 209 190 289 279 260 254</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\SdFile.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 232 94 235 223 180 162 205 305 173 237 120 110 302 288 255 230 216 123 294 306 201 250 253 226 39 238 240 241 25 7 166 67 49 206 281 220 224 284 293 179 249 197 258 259 262 192 9 234 246 245 229 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 94 110 7 67 49 166 120 180 123 216 206 305 224 179 9 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 220 205</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\SdVolume.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255 94 235 223 302 288 162 205 305 173 232 180 237 294 306 201 250 253 120 110 230 206 281 220 224 284 293 179 249 197 258 259 262 192 9 123 226 39 238 240 241 25 216 7 166 67 49 234 246 245 229 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 216 206 305 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 220 205</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\File.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 220 94 143 302 288 216 255 240 39 223 7 166 49 173 232 180 246 179 110 67 294 306 201 250 253 305 239 225 123 120 224 284 293 249 197 258 259 262 192 9 234 245 229 162 206 235 226 237 238 230 241 25 205</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 94 110 7 67 49 166 120 180 123 225 305 224 179 9 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 216 206 220 205</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\shell.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152 177</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 232 180 234 235 223 288 255 67 94 110 249 230 224 201 250 253 305 7 166 49 197 240 246 162 293 281 179 258 259 262 192 9 120 123 226 237 39 238 241 25 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\uCOS\app_hooks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 130 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92 136</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120 110 239 246 238 94 143 223 237 39 230 162 234 245 229 7 166 67 49 240 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 234 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 235 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23 159</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 223 237 230 162 234 246 238 94 120 110 143 239 235 245 229 7 166 67 49 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 235 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspI2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 237 223 67 94 235 232 39 162 241 246 245 229 110 7 166 49 240 238 230 120 143 234 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235 239 241 232</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 237 7 166 49 162 39 245 229 110 94 240 234 223 246 67 235 241 238 230 120 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 241 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 184</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162 223 234 230 246 237 39 238 94 120 110 143 239 240 245 229 7 166 67 49 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 240 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 234 235 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspLcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 137</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123 223 110 197 235 192 224 179 259 94 201 226 39 230 249 258 262 281 9 120 180 237 162 25 293 173 288 250 232 253 255 305 7 166 67 49 234 240 246 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 39 7 166 49 162 237 245 229 110 94 240 234 246 67 235 226 238 230 120 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\SD.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 281 220 143 120 110 262 197 240 39 223 180 224 249 246 179 94 123 293 258 239 225 7 166 67 49 305 284 259 192 234 245 229 162 206 173 216 294 302 306 201 288 250 232 253 255 235 226 237 238 230 241 25 205</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 94 110 7 67 49 166 120 180 123 225 305 224 179 9 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 294 284 302 293 306 216 206 220 205</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\CMSIS\system_stm32f2xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 186</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94 39 246 162 67 235 223 237 245 229 110 7 166 49 240 238 230 120 143 234 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 223 110 232 235 173 67 94 224 288 255 180 234 230 201 250 253 305 7 166 49 197 240 246 162 25 293 179 258 259 262 192 281 9 120 123 226 237 39 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 245 238 94 143 246 120 110 239 237 39 230 162 234 229 7 166 67 49 240 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_dbg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108 138</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\startup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 139</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GUI\pinkpanther.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 141</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 88 149</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 201 288 197 249</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GUI\rocky.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 158 135</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 197 288 201</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_flag.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspMp3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65 188</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 223 94 173 67 235 232 249 224 288 255 180 234 230 201 250 253 305 7 166 49 197 240 246 162 25 293 179 258 259 262 192 281 9 120 123 226 237 39 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 197 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156 169</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspSpi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 110 255 235 288 180 234 224 173 232 67 94 249 230 201 250 253 305 7 166 49 197 240 246 162 25 293 179 258 259 262 192 281 9 120 123 226 237 39 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_a.asm</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mutex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 87</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 288 201</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_q.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 201 197 249 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_sem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 187 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 197 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspUart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 175</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 180 234 110 288 235 255 224 173 232 67 94 249 230 201 250 253 305 7 166 49 197 240 246 162 25 293 179 258 259 262 192 281 9 120 123 226 237 39 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\hw_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52 185</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 234 39 94 162 240 246 67 235 226 237 245 229 110 7 166 49 258 238 230 120 143 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 258 223 237 39 94 110 7 67 49 166 120 238 162 143 229 230 246 245 240 234 235 239 226</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspSD.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 201 223 226 110 259 235 179 94 39 224 197 192 123 230 249 258 262 281 9 120 180 237 162 25 293 173 288 250 232 253 255 305 7 166 67 49 234 240 246 238 241 284 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GUI\starwarslogo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 117</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Util\print.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 180 246 143 259 25 179 197 240 39 223 110 192 224 9 120 94 249 258 262 281 123 234 239 293 285 7 166 67 49 173 201 288 250 232 253 255 305 235 226 237 245 229 162 284 238 230 241 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 281 179 94 110 7 67 49 166 120 180 9 249 285 224 173 123 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalLcdILI9341.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 172</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 249 255 288 67 94 110 238 173 232 180 234 240 241 226 25 300 201 250 253 305 7 166 49 197 246 162 284 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Util\printf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120 223 110 305 94 250 230 201 253 197 240 246 235 224 173 288 232 255 180 249 234 162 293 25 7 166 67 49 179 258 259 262 192 281 9 123 226 237 39 238 241 284 285 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 285 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_tmr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 174</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 167 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 176</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 240 197 253 201 94 246 238 250 305 7 166 49 241 226 25 300 173 288 232 255 180 67 110 249 234 162 284 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalMp3VS1053.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94 110 288 67 255 249 238 173 232 180 234 240 241 226 25 300 201 250 253 305 7 166 49 197 246 162 284 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalTouchFT6206.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 288 94 110 255 249 238 173 232 180 234 240 241 226 25 300 201 250 253 305 7 166 49 197 246 162 284 306 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_task.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 249 201 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 153 274</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 201 197 249 288</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 197 201 249</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalSDAdafruit.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 109 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 232 180 234 238 94 288 255 67 110 249 240 241 226 25 300 201 250 253 305 7 166 49 197 246 162 284 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalSPI.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 253 197 240 201 94 246 238 250 305 7 166 49 241 226 25 300 173 288 232 255 180 67 110 249 234 162 284 179 258 259 262 192 281 9 120 123 223 235 237 39 230 224 293 245 229 143 239 294 302 306</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 179 94 110 7 67 49 166 120 180 9 173 123 249 201 197 288 258 223 237 39 238 162 143 229 230 246 245 240 234 235 239 226 250 259 232 241 262 253 192 255 281 305 294 284 302 293 306 300</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit-GFX\glcdfont.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Release\Obj\os_task.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bspSpi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\mp3Util.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\misc.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\Sd2Card.o</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_GFX.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_dbg.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\tasks.o</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalMp3VS1053.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_flag.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_task.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspSD.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\SdVolume.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspUart.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_q.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_usart.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_time.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_task.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\hw_init.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_usart.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Release\Obj\glcdfont.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\print.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\print.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cpu_c.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspSpi.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdf.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalMp3VS1053.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_tmr.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\print.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mbox.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspMp3.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mem.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_flag.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_sem.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_FT6206.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mutex.o</file>
+      <file>$PROJ_DIR$\Release\Obj\shell.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\glcdfont.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_sem.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspLcd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_i2c.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_ILI9341.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$PROJ_DIR$\Release\Obj\hw_init.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspMp3.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_q.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_spi.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_ne.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Release\Obj\os_sem.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_ILI9341.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_core.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalSPI.o</file>
+      <file>$PROJ_DIR$\Release\Obj\tasks.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspUart.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_GFX.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_time.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_gpio.o</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdf.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspUart.o</file>
+      <file>$PROJ_DIR$\Release\Obj\mp3Util.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mem.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\mp3Util.o</file>
+      <file>$PROJ_DIR$\Release\Obj\File.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_ILI9341.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspI2c.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalMp3VS1053.o</file>
+      <file>$PROJ_DIR$\Release\Obj\glcdfont.o</file>
+      <file>$PROJ_DIR$\Release\Obj\app_hooks.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_spi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspLcd.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bspI2c.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mutex.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_tmr.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mbox.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\app_hooks.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalLcdILI9341.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_rcc.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_core.o</file>
+      <file>$PROJ_DIR$\Release\Obj\SdVolume.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_rcc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\SdFile.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_dbg.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bspI2c.o</file>
+      <file>$PROJ_DIR$\Release\Exe\MP3Player.out</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cpu_c.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_usart.pbi</file>
+      <file>$PROJ_DIR$\Release\List\MP3Player.map</file>
+      <file>$PROJ_DIR$\Release\Obj\hw_init.o</file>
+      <file>$PROJ_DIR$\Release\Obj\shell.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_time.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_rcc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_i2c.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_tmr.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalSPI.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mem.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_flag.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalSPI.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mbox.o</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_FT6206.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\os_q.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_FT6206.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bspLcd.o</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalSDAdafruit.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cpu_c.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\system_stm32f2xx.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_mutex.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\SD.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bspSpi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalSDAdafruit.o</file>
+      <file>$PROJ_DIR$\Release\Obj\Sd2Card.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdf.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\Adafruit_GFX.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bspSD.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cpu_a.o</file>
+      <file>$PROJ_DIR$\Release\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\app_hooks.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f4xx_spi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\system_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Release\Obj\SdFile.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalLcdILI9341.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\bspMp3.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\startup.o</file>
+      <file>$PROJ_DIR$\Release\Obj\printf.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pjdfInternalLcdILI9341.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_core.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\tasks.__cstat.et</file>
+      <file>$PROJ_DIR$\App\main.c</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.h</file>
+      <file>$PROJ_DIR$\App\mp3Util.c</file>
+      <file>$PROJ_DIR$\BSP\bspLcd.h</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.cpp</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.cpp</file>
+      <file>$PROJ_DIR$\App\uCOS\app_cfg.h</file>
+      <file>$PROJ_DIR$\App\tasks.c</file>
+      <file>$PROJ_DIR$\App\uCOS\os_cfg.h</file>
+      <file>$PROJ_DIR$\App\mp3Util.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\FatStructs.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFile.cpp</file>
+      <file>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdVolume.cpp</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\File.cpp</file>
+      <file>$PROJ_DIR$\App\shell.c</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdFat.h</file>
+      <file>$PROJ_DIR$\App\uCOS\app_hooks.c</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\utility\SdInfo.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\BSP\bsp.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\SD.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.h</file>
+      <file>$PROJ_DIR$\BSP\bspI2c.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.c</file>
+      <file>$PROJ_DIR$\BSP\bspI2c.h</file>
+      <file>$PROJ_DIR$\BSP\bspLcd.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.c</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cm4.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.h</file>
+      <file>$PROJ_DIR$\Arduino\SD\src\SD.cpp</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\system_stm32f2xx.c</file>
+      <file>$PROJ_DIR$\BSP\bsp.c</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_conf.h</file>
+      <file>$PROJ_DIR$\BSP\CMSIS\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_dbg.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu.h</file>
+      <file>$PROJ_DIR$\BSP\hw_init.h</file>
+      <file>$PROJ_DIR$\BSP\startup.s</file>
+      <file>$PROJ_DIR$\BSP\bspSD.h</file>
+      <file>$PROJ_DIR$\BSP\bspMp3.h</file>
+      <file>$PROJ_DIR$\BSP\layout.icf</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_c.c</file>
+      <file>$PROJ_DIR$\BSP\nucleoboard.h</file>
+      <file>$PROJ_DIR$\BSP\bspUart.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_core.c</file>
+      <file>$PROJ_DIR$\BSP\bspSpi.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_flag.c</file>
+      <file>$PROJ_DIR$\BSP\bspMp3.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mbox.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mem.c</file>
+      <file>$PROJ_DIR$\BSP\bspSpi.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_a.asm</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mutex.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_q.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_sem.c</file>
+      <file>$PROJ_DIR$\BSP\bspUart.c</file>
+      <file>$PROJ_DIR$\BSP\hw_init.c</file>
+      <file>$PROJ_DIR$\BSP\bspSD.c</file>
+      <file>$PROJ_DIR$\Util\print.c</file>
+      <file>$PROJ_DIR$\Util\print.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalLcdILI9341.c</file>
+      <file>$PROJ_DIR$\Util\printf.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlLcdILI9341.h</file>
+      <file>$PROJ_DIR$\Util\printf.h</file>
+      <file>$PROJ_DIR$\MP3data\train_crossing.h</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_tmr.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\ucos_ii.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdf.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlSDAdafruit.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlSpi.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalMp3VS1053.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_task.c</file>
+      <file>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_time.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternal.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalSDAdafruit.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdfCtrlMp3VS1053.h</file>
+      <file>$PROJ_DIR$\PJDF\pjdfInternalSPI.c</file>
+      <file>$PROJ_DIR$\PJDF\pjdf.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 117 114</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit-GFX\Adafruit_GFX.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 6 64 61 2 65 72 74 3 70 66 1 30 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 65 61 64 3 30 7 70 66 74 6 72 67 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit-GFX\glcdfont.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\MP3Player.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 117</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 213 131 83 92 96 52 113 132 42 10 87 95 118 56 146 90 108 145 34 40 18 128 43 47 59 75 20 120 103 141 106 94 79 39 154 85 122 121 97 25 150 16 8 62 63 71</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 209 193 188 64 168 162 7 61 204 182 73 72 239 191 232 4 30 199 205 194 248 208 166 215 216 218 212 250 74 3 70 66 67 185 196 6 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\mp3Util.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 191 197 61 182 72 168 239 232 30 64 199 205 209 162 7 193 69 242 73 208 166 215 216 218 212 250 74 3 70 66 67 194 185 196 6 189 198 200 248 183 204 188 68 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit_ILI9341\Adafruit_ILI9341.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 166 6 212 69 1 64 3 70 66 67 235 73 216 74 208 193 182 250 183 215 218 204 188 194 5 65 72 30 7 242 248 168 239 209 191 162 232 4 199 205 68 173 185 196 197 189 198 200</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 1 65 61 64 3 30 7 70 66 74 6 72 67 250 183 73 4 208 168 166 239 215 182 196 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 242 235 248 241 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\Sd2Card.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 171 250 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 242 235 248 241 179</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Adafruit\Adafruit_FT6206\Adafruit_FT6206.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 70 188 66 64 182 194 61 6 204 196 69 191 30 7 200 205 68 199 160 197 189 193 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160 6 61 64 3 30 7 70 66 191 182 196 197 69 68 188 189 205 204 199 193 194 198 200</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\tasks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 158</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 61 215 3 70 205 250 66 64 199 1 208 218 168 197 182 232 160 73 166 216 212 74 193 69 242 183 169 173 237 72 239 209 191 162 4 30 7 67 194 185 196 189 198 200 248 204 188 68 235 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 169 1 65 173 160</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\SdFile.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 151</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 61 64 3 30 7 70 66 74 67 177 171 250 183 73 4 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 242 235 248 241 179 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\utility\SdVolume.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 177 171 250 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 242 235 248 241 179 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\File.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 61 64 3 30 7 70 66 74 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\shell.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\App\uCOS\app_hooks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 208 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 61 198 205 30 182 196 6 189 7 69 193 204 188 64 3 70 66 68 199 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 193 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 182 189 196 7 69 193 205 197 61 30 198 194 204 188 64 3 70 66 68 199</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 194 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspI2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 196 182 194 191 69 200 205 204 188 64 61 3 70 66 68 199 197 189 30 7 193 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198 200 191</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 188 64 196 204 61 68 6 3 70 66 199 193 182 205 69 194 200 197 189 30 7 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 200 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 182 7 193 205 189 196 6 197 61 30 198 199 204 188 64 3 70 66 68 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 199 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 193 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspLcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 69 239 232 168 188 64 72 191 30 61 199 205 204 182 73 209 162 7 193 194 248 208 166 215 216 218 212 250 74 3 70 66 67 185 196 6 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\stm32f4xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 188 64 182 6 204 61 68 196 3 70 66 199 193 205 69 194 185 197 189 30 7 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 185 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Arduino\SD\src\SD.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 137</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 61 64 3 30 7 70 66 74 67 184 250 183 73 4 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\CMSIS\system_stm32f2xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 205 69 204 188 194 182 196 197 189 64 61 3 70 66 68 199 30 7 193 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 199 69 191 61 64 72 205 188 239 232 4 168 204 182 73 209 162 7 193 194 248 208 166 215 216 218 212 250 74 3 70 66 67 185 196 6 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\ST\StdPeripheralDrivers\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 30 182 204 188 205 6 198 196 197 189 7 69 193 64 3 70 66 68 199 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_dbg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 166 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\startup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 154</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 239 166 208</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 166 239 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_flag.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 208 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspMp3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 73 196 216 61 194 188 64 166 212 74 67 204 182 208 215 218 250 3 70 66 185 6 248 72 168 239 209 191 162 232 4 30 7 193 199 205 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 166 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 208 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspSpi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 232 168 239 4 188 64 72 191 30 61 199 205 204 182 73 209 162 7 193 194 248 208 166 215 216 218 212 250 74 3 70 66 67 185 196 6 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\ARM-Cortex-M4\IAR\os_cpu_a.asm</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_mutex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 136</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 166 239 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_q.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 130</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 166 208 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_sem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 166 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspUart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 185 69 218 66 64 74 208 61 3 70 6 188 215 250 182 204 73 166 216 212 67 194 196 248 72 168 239 209 191 162 232 4 30 7 193 199 205 68 242 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\hw_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 182 193 69 199 205 6 194 185 196 204 188 64 61 3 70 66 68 215 197 189 30 7 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 215 182 196 6 61 64 3 30 7 70 66 197 69 68 188 189 205 204 199 193 194 198 185</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP\bspSD.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Util\print.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 74 64 205 166 208 61 3 70 162 199 73 216 6 68 215 218 232 67 193 200 248 183 4 30 7 72 168 239 209 191 211 212 250 182 194 185 196 204 188 69 242 197 189 198 235 241</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 232 73 61 64 3 30 7 70 66 74 4 208 183 72 67 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalLcdILI9341.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 156</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 152</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 232 168 242 239 4 72 191 30 61 64 199 205 246 209 162 7 193 6 68 185 250 73 208 166 215 216 218 212 74 3 70 66 67 182 194 196 204 188 69 248 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 246</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Util\printf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 193 216 3 70 73 66 74 69 182 166 162 61 194 196 208 215 218 232 4 67 168 185 6 197 242 183 72 239 209 191 211 212 250 30 7 199 205 189 198 248 236 204 188 68 200 235 241</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 236 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_tmr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 208 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 232 168 242 239 4 72 191 30 61 64 199 205 246 209 162 7 193 6 68 185 250 73 208 166 215 216 218 212 74 3 70 66 67 182 194 196 204 188 69 248 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 246</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalMp3VS1053.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 199 191 61 64 242 72 205 239 232 4 168 246 209 162 7 193 6 68 185 250 73 208 166 215 216 218 212 74 3 70 66 67 182 194 196 204 188 69 248 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 246</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_task.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 208 168 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 166 208 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 166 168 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalSDAdafruit.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 133</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 139</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 246</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PJDF\pjdfInternalSPI.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162 61 7 242 168 64 209 193 199 246 72 239 191 232 4 30 205 6 68 185 250 73 208 166 215 216 218 212 74 3 70 66 67 182 194 196 204 188 69 248 183 197 189 198 200 235</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 73 61 64 3 30 7 70 66 74 4 72 67 208 168 166 239 215 182 196 6 197 69 68 188 189 205 204 199 193 194 198 185 209 216 191 200 218 211 162 212 232 250 242 235 248 241 246</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\os_dbg_r.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\BSP\datainit.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Micrium\Software\uCOS-II\Source\ucos_ii.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
